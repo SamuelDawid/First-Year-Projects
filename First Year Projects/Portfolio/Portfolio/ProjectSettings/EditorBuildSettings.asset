@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f618a86e5f3803648b01a89a0c1f8bad
+  - enabled: 1
+    path: Assets/Scenes/Pachinko.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/2D car.unity
+    guid: 7744ec35b1c822644b9962393246b1c8
+  - enabled: 1
+    path: Assets/Scenes/Challange.unity
+    guid: c298fbf1d56bb074c9b477d4cc1949c6
+  - enabled: 1
+    path: Assets/Scenes/Platformer.unity
+    guid: 83eb78615804b1f4999dfccf8f32744a
+  - enabled: 1
+    path: Assets/Scenes/Terrein.unity
+    guid: a8dd7b405108d464e8a1c5087c5e0294
+  m_configObjects: {}
